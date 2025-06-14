@@ -13,9 +13,9 @@ nltk
 unstructured
 dspy-ai
 jinja2
-langchain-community
-langchain-core
-langchain-openai
+langchain-community>=0.3
+langchain-core>=0.3
+langchain-openai>=0.3
 streamlit
 rank_bm25
 streamlit-shadcn-ui
