@@ -206,7 +206,7 @@ with st.sidebar:
         # 👀 Preview first
         if file_ext == ".pdf":
             pdf_bytes = uploaded_pdf.read()
-            pdf_viewer(input=pdf_bytes, width=700)
+            pdf_viewer(input=pdf_bytes, width=700, height=900, annotations=[])
             uploaded_pdf.seek(0)
 
         else:
