@@ -28,4 +28,4 @@ streamlit-pdf-viewer
 # pinecone-client>=6.0
 langchain-pinecone>=0.2
 cloudpickle
-pinecone>=7.0.0
+pinecone
