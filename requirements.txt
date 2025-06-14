@@ -27,5 +27,4 @@ streamlit-pdf-viewer
 # langchain-milvus
 pinecone-client>=6.0
 langchain-pinecone>=0.2
-dsparse
 cloudpickle
