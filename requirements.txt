@@ -1,0 +1,33 @@
+streamlit
+langchain_openai
+langchain_core
+langchain_community
+# chromadb
+faiss-cpu
+pypdf
+sentence_transformers
+python-dotenv
+tiktoken
+openai
+langchainhub
+langchain
+python-docx
+nltk
+unstructured
+dspy-ai
+jinja2
+langchain-community
+langchain-core
+langchain-openai
+streamlit
+rank_bm25
+streamlit-shadcn-ui
+requests
+mistralai
+fitz
+streamlit-pdf-viewer
+# pymilvus
+# langchain-milvus
+pinecone-client 
+langchain-pinecone
+dsparse
