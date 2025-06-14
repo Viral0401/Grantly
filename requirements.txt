@@ -31,3 +31,4 @@ streamlit-pdf-viewer
 pinecone-client 
 langchain-pinecone
 dsparse
+cloudpickle
