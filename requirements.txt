@@ -13,7 +13,7 @@ nltk
 unstructured
 dspy-ai
 jinja2
-#langchain-community>=0.3
+langchain-community>=0.3.25
 langchain-core>=0.3
 langchain-openai>=0.3
 streamlit
